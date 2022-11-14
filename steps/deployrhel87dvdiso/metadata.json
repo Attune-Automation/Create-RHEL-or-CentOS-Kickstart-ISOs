@@ -1,9 +1,9 @@
 {
-    "archiveKey": "rhel87bootiso", 
+    "archiveKey": "rhel87dvdiso", 
     "deployPath": "{buildBaseDir}/build-{isoNode.fqn}", 
     "enabled": true, 
-    "key": "deployrhel87bootiso", 
-    "name": "Deploy RHEL8.7 Boot ISO", 
+    "key": "deployrhel87dvdiso", 
+    "name": "Deploy RHEL8.7 DVD ISO", 
     "osCredKey": "buildnodeuser", 
     "serverKey": "buildnode", 
     "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 

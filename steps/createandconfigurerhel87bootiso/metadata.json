@@ -10,7 +10,7 @@
         }, 
         {
             "order": 20, 
-            "stepKey": "deployrhel87bootiso"
+            "stepKey": "deployrhel87dvdiso"
         }, 
         {
             "order": 70, 

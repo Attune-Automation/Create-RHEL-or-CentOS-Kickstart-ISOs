@@ -1,2 +1,5 @@
 DIR="{buildBaseDir}/*{isoNode.fqn}"
-[ ! ${DIR} ] || sudo rm -rf ${DIR}
+
+[ -d ${DIR} ] || echo "Nothing to cleanup!"
+
+[ ! ${DIR} ] || sudo rm -rfv ${DIR}
