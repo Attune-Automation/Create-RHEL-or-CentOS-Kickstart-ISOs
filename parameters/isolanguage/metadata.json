@@ -1,0 +1,6 @@
+{
+    "key": "isolanguage", 
+    "name": "ISO Language", 
+    "showInPlan": false, 
+    "type": "c.s.s.b.phv.Text"
+}

@@ -1,0 +1,1 @@
+Download the required Red Hat Boot ISO and attached  here.

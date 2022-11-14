@@ -1,0 +1,1 @@
+Subnet your host is on.   Enter the DNS servers for the subnet as part of the Parameter.

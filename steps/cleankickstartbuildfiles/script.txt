@@ -1,0 +1,2 @@
+DIR="{buildBaseDir}/*{isoNode.fqn}"
+[ ! ${DIR} ] || sudo rm -rf ${DIR}

@@ -1,0 +1,1 @@
+Base directory to install Kickstart files under.   

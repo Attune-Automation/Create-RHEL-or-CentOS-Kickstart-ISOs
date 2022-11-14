@@ -1,0 +1,6 @@
+{
+    "key": "isonode", 
+    "name": "ISO Node", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.LinuxServer"
+}

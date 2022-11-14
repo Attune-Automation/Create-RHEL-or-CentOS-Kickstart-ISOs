@@ -1,0 +1,5 @@
+{
+    "key": "adrootcacertificate", 
+    "name": "AD Root CA certificate", 
+    "type": "com.servertribe.attune.tuples.FileArchiveVersionedTuple"
+}

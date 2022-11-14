@@ -1,0 +1,10 @@
+{
+    "fileName": "rhel-8.7-x86_64-boot.iso", 
+    "formatKey": "unknown", 
+    "key": "rhel87bootiso", 
+    "md5": "16fca9dedfb1e82312ebce0619c766c8", 
+    "name": "RHEL8.7 Boot ISO", 
+    "remoteUri": null, 
+    "size": 902823936, 
+    "type": "com.servertribe.attune.tuples.FileArchiveLargeTuple"
+}

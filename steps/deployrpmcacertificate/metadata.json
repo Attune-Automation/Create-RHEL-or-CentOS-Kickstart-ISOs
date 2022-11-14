@@ -1,0 +1,11 @@
+{
+    "archiveKey": "adrootcacertificate", 
+    "deployPath": "{buildBaseDir}/build-{isoNode.fqn}", 
+    "enabled": true, 
+    "key": "deployrpmcacertificate", 
+    "name": "Deploy RPM CA Certificate", 
+    "osCredKey": "buildnodeuser", 
+    "serverKey": "buildnode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": true
+}

@@ -1,0 +1,6 @@
+{
+    "key": "isotimezone", 
+    "name": "ISO TimeZone", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.Text"
+}
