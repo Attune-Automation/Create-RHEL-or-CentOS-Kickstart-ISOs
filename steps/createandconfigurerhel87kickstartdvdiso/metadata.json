@@ -2,7 +2,7 @@
     "concurrency": 1, 
     "enabled": true, 
     "isBlueprint": true, 
-    "key": "createandconfigurerhel87bootiso", 
+    "key": "createandconfigurerhel87kickstartdvdiso", 
     "links": [
         {
             "order": 0, 
@@ -18,7 +18,7 @@
         }, 
         {
             "order": 120, 
-            "stepKey": "deployrhel8kickstartconfig"
+            "stepKey": "deployrhel8kickstartdvdconfig"
         }, 
         {
             "order": 170, 
@@ -29,6 +29,6 @@
             "stepKey": "createrhelbootiso"
         }
     ], 
-    "name": "Create and Configure RHEL8.7 Boot ISO", 
+    "name": "Create and Configure RHEL8.7 Kickstart DVD ISO", 
     "type": "com.servertribe.attune.tuples.StepGroupTuple"
 }

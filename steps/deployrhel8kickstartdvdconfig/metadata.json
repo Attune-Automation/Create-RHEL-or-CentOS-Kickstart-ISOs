@@ -2,7 +2,7 @@
     "archiveKey": "rhel8kickstartfromdvdconfig", 
     "deployPath": "{buildBaseDir}/build-{isoNode.fqn}", 
     "enabled": true, 
-    "key": "deployrhel8kickstartconfig", 
+    "key": "deployrhel8kickstartdvdconfig", 
     "makoFileNames": [
         "ks.cfg"
     ], 
@@ -33,7 +33,7 @@
             "parameterType": "c.s.s.b.phv.Text"
         }
     ], 
-    "name": "Deploy RHEL8 Kickstart Config", 
+    "name": "Deploy RHEL8 Kickstart DVD Config", 
     "osCredKey": "buildnodeuser", 
     "serverKey": "buildnode", 
     "type": "com.servertribe.attune.tuples.StepPushDesignFileCompiledTuple"
