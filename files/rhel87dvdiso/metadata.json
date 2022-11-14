@@ -1,0 +1,10 @@
+{
+    "fileName": null, 
+    "formatKey": null, 
+    "key": "rhel87dvdiso", 
+    "md5": null, 
+    "name": "RHEL8.7 DVD ISO", 
+    "remoteUri": null, 
+    "size": null, 
+    "type": "com.servertribe.attune.tuples.FileArchiveLargeTuple"
+}
