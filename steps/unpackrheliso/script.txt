@@ -4,4 +4,4 @@ echo "Extract the ISO with 7zip"
 7z x rhel*.iso
 
 echo "Delete the ISO"
-rm rhel*.iso
+rm -v rhel*.iso

@@ -1,6 +1,0 @@
-{
-    "key": "isorpmserver", 
-    "name": "ISO RPM Server", 
-    "showInPlan": true, 
-    "type": "c.s.s.b.phv.LinuxServer"
-}

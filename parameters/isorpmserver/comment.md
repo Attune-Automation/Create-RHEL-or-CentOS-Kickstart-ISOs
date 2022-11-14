@@ -1,1 +1,0 @@
-Internal repository (RPM) server to be used for rpm's. 

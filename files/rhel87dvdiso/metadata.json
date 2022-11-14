@@ -1,10 +1,10 @@
 {
-    "fileName": null, 
-    "formatKey": null, 
+    "fileName": "rhel-8.7-x86_64-dvd.iso", 
+    "formatKey": "unknown", 
     "key": "rhel87dvdiso", 
-    "md5": null, 
+    "md5": "0b601e4a2d3ee75f0f8a59e50bdac95f", 
     "name": "RHEL8.7 DVD ISO", 
     "remoteUri": null, 
-    "size": null, 
+    "size": 12161384448, 
     "type": "com.servertribe.attune.tuples.FileArchiveLargeTuple"
 }
