@@ -1,4 +1,4 @@
 {
-    "name": "Kickstart RHEL 8.4 from Boot ISO on ESXi (VMware)", 
+    "name": "Create RHEL8 Kickstart ISO", 
     "revision": "0aa489aa66b2"
 }
