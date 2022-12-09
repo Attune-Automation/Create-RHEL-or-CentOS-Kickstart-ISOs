@@ -1,0 +1,45 @@
+{
+    "archiveKey": "rhel8kickstartfromrpmmirrorconfig", 
+    "deployPath": "{buildBaseDir}/build-{isoNode.fqn}", 
+    "enabled": true, 
+    "key": "deployrhel8kickstartrpmmirrorconfig", 
+    "makoFileNames": [
+        "ks.cfg"
+    ], 
+    "makoParameters": [
+        {
+            "name": "rootUser", 
+            "parameterKey": "isorootuser", 
+            "parameterType": "c.s.s.b.phv.LinOsCred"
+        }, 
+        {
+            "name": "language", 
+            "parameterKey": "isolanguage", 
+            "parameterType": "c.s.s.b.phv.Text"
+        }, 
+        {
+            "name": "subnet", 
+            "parameterKey": "isoconfiguredsubnet", 
+            "parameterType": "c.s.s.b.phv.Ip4Subnet"
+        }, 
+        {
+            "name": "node", 
+            "parameterKey": "isonode", 
+            "parameterType": "c.s.s.b.phv.LinuxServer"
+        }, 
+        {
+            "name": "timeZone", 
+            "parameterKey": "isotimezone", 
+            "parameterType": "c.s.s.b.phv.Text"
+        }, 
+        {
+            "name": "rpmMirrorUrl", 
+            "parameterKey": "rpmmirrorurl", 
+            "parameterType": "c.s.s.b.phv.Text"
+        }
+    ], 
+    "name": "Deploy RHEL8 Kickstart RPM Mirror Config", 
+    "osCredKey": "buildnodeuser", 
+    "serverKey": "buildnode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileCompiledTuple"
+}

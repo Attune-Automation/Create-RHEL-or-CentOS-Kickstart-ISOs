@@ -1,0 +1,10 @@
+{
+    "fileName": "CentOS-8.5.2111-x86_64-boot.iso", 
+    "formatKey": "unknown", 
+    "key": "centos85bootiso", 
+    "md5": "3c7d769941e5565f06457e2de99696e8", 
+    "name": "CentOS8.5 Boot ISO", 
+    "remoteUri": "https://archive.kernel.org/centos-vault//8.5.2111/isos/x86_64/CentOS-8.5.2111-x86_64-boot.iso", 
+    "size": 827326464, 
+    "type": "com.servertribe.attune.tuples.FileArchiveLargeTuple"
+}

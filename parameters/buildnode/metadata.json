@@ -1,6 +1,6 @@
 {
     "key": "buildnode", 
     "name": "Build Node", 
-    "showInPlan": false, 
+    "showInPlan": true, 
     "type": "c.s.s.b.phv.LinuxServer"
 }

@@ -1,6 +1,6 @@
 {
-    "key": "isotimezone", 
-    "name": "ISO TimeZone", 
+    "key": "rpmmirrorurl", 
+    "name": "RPM Mirror URL", 
     "showInPlan": false, 
     "type": "c.s.s.b.phv.Text"
 }

@@ -1,6 +1,6 @@
 {
     "key": "isorootuser", 
     "name": "ISO root User", 
-    "showInPlan": false, 
+    "showInPlan": true, 
     "type": "c.s.s.b.phv.LinOsCred"
 }

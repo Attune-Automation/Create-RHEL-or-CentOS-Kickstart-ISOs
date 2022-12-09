@@ -1,0 +1,1 @@
+https://archive.kernel.org/centos-vault//8.5.2111/isos/x86_64/CentOS-8.5.2111-x86_64-boot.iso

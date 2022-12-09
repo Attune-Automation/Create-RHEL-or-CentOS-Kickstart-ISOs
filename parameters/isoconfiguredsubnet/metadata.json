@@ -1,6 +1,6 @@
 {
     "key": "isoconfiguredsubnet", 
     "name": "ISO Configured Subnet", 
-    "showInPlan": true, 
+    "showInPlan": false, 
     "type": "c.s.s.b.phv.Ip4Subnet"
 }

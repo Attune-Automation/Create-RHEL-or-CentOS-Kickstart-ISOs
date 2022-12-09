@@ -1,0 +1,5 @@
+{
+    "key": "rhel8kickstartfromrpmmirrorconfig", 
+    "name": "RHEL8 Kickstart from RPM Mirror Config", 
+    "type": "com.servertribe.attune.tuples.FileArchiveVersionedTuple"
+}
