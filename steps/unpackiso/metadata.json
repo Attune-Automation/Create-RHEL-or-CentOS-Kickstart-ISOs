@@ -1,8 +1,8 @@
 {
     "enabled": true, 
     "interpreter": 1, 
-    "key": "createrhelbootiso", 
-    "name": "Create RHEL Boot ISO", 
+    "key": "unpackiso", 
+    "name": "Unpack ISO", 
     "osCredKey": "buildnodeuser", 
     "serverKey": "buildnode", 
     "successExitCode": 0, 

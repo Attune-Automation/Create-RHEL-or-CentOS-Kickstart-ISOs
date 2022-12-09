@@ -1,0 +1,5 @@
+{
+    "key": "kickstartfromdvdconfig", 
+    "name": "Kickstart from DVD Config", 
+    "type": "com.servertribe.attune.tuples.FileArchiveVersionedTuple"
+}

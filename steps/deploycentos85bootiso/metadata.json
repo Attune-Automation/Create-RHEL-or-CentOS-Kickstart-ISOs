@@ -1,0 +1,11 @@
+{
+    "archiveKey": "centos85bootiso", 
+    "deployPath": "{buildBaseDir}/build-{isoNode.fqn}", 
+    "enabled": true, 
+    "key": "deploycentos85bootiso", 
+    "name": "Deploy CentOS8.5 Boot ISO", 
+    "osCredKey": "buildnodeuser", 
+    "serverKey": "buildnode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": false
+}

@@ -1,5 +1,5 @@
 {
-    "archiveKey": "rhel8kickstartfromdvdconfig", 
+    "archiveKey": "kickstartfromdvdconfig", 
     "deployPath": "{buildBaseDir}/build-{isoNode.fqn}", 
     "enabled": true, 
     "key": "deployrhel8kickstartdvdconfig", 

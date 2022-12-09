@@ -1,5 +1,5 @@
 
-# Create RHEL8 Kickstart ISO
+# Create RHEL and CentOS Kickstart ISOs
 
 
 
@@ -43,6 +43,9 @@ Download Red Hat 8.4 or newer Boot ISO file you wish to build the VM from and ad
 `sudo pwsh -Command`
 ```
 
+### Create and Configure CentOS8.5 Kickstart Boot ISO
+
+
 
 
 
@@ -70,11 +73,11 @@ Download Red Hat 8.4 or newer Boot ISO file you wish to build the VM from and ad
 | Name | Type |
 | ---- | ---- |
 | AD Root CA certificate | Version Controlled Files |
+| CentOS8.5 Boot ISO | Large Archives |
 | RHEL8.7 Boot ISO | Large Archives |
 | RHEL8.7 DVD ISO | Large Archives |
-| RHEL8 Kickstart from DVD Config | Version Controlled Files |
-| RHEL8 Kickstart from RPM Mirror Config | Version Controlled Files |
-| CentOS8.5 Boot ISO | Large Archives |
+| Kickstart from RPM Mirror Config | Version Controlled Files |
+| Kickstart from DVD Config | Version Controlled Files |
 
 
 

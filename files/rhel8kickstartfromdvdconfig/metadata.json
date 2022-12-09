@@ -1,5 +1,0 @@
-{
-    "key": "rhel8kickstartfromdvdconfig", 
-    "name": "RHEL8 Kickstart from DVD Config", 
-    "type": "com.servertribe.attune.tuples.FileArchiveVersionedTuple"
-}

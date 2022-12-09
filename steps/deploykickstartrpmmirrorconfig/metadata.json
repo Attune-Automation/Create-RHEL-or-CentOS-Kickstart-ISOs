@@ -1,8 +1,8 @@
 {
-    "archiveKey": "rhel8kickstartfromrpmmirrorconfig", 
+    "archiveKey": "kickstartfromrpmmirrorconfig", 
     "deployPath": "{buildBaseDir}/build-{isoNode.fqn}", 
     "enabled": true, 
-    "key": "deployrhel8kickstartrpmmirrorconfig", 
+    "key": "deploykickstartrpmmirrorconfig", 
     "makoFileNames": [
         "ks.cfg"
     ], 
@@ -38,7 +38,7 @@
             "parameterType": "c.s.s.b.phv.Text"
         }
     ], 
-    "name": "Deploy RHEL8 Kickstart RPM Mirror Config", 
+    "name": "Deploy Kickstart RPM Mirror Config", 
     "osCredKey": "buildnodeuser", 
     "serverKey": "buildnode", 
     "type": "com.servertribe.attune.tuples.StepPushDesignFileCompiledTuple"

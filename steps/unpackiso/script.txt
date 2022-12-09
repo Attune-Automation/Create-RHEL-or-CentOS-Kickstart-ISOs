@@ -1,7 +1,7 @@
 cd {buildBaseDir}/build-{isoNode.fqn}
 
 echo "Extract the ISO with 7zip"
-7z x rhel*.iso
+7z x *.iso
 
 echo "Delete the ISO"
-rm -v rhel*.iso
+rm -v *.iso

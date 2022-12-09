@@ -1,0 +1,5 @@
+{
+    "key": "kickstartfromrpmmirrorconfig", 
+    "name": "Kickstart from RPM Mirror Config", 
+    "type": "com.servertribe.attune.tuples.FileArchiveVersionedTuple"
+}

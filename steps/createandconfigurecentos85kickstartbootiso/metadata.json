@@ -2,7 +2,7 @@
     "concurrency": 1, 
     "enabled": true, 
     "isBlueprint": true, 
-    "key": "createandconfigurerhel87kickstartbootiso", 
+    "key": "createandconfigurecentos85kickstartbootiso", 
     "links": [
         {
             "order": 0, 
@@ -10,7 +10,7 @@
         }, 
         {
             "order": 50, 
-            "stepKey": "deployrhel87bootiso"
+            "stepKey": "deploycentos85bootiso"
         }, 
         {
             "order": 100, 
@@ -22,13 +22,9 @@
         }, 
         {
             "order": 200, 
-            "stepKey": "deployrpmcacertificate"
-        }, 
-        {
-            "order": 250, 
             "stepKey": "createbootiso"
         }
     ], 
-    "name": "Create and Configure RHEL8.7 Kickstart Boot ISO", 
+    "name": "Create and Configure CentOS8.5 Kickstart Boot ISO", 
     "type": "com.servertribe.attune.tuples.StepGroupTuple"
 }
